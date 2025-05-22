@@ -1,0 +1,22 @@
+word_list = [
+    "python", "hangman", "programming", "developer", "keyboard",
+    "function", "variable", "loop", "condition", "syntax",
+    "debug", "compile", "interpreter", "exception", "string",
+    "integer", "boolean", "list", "dictionary", "tuple",
+    "array", "object", "class", "method", "inheritance",
+    "encapsulation", "polymorphism", "abstraction", "algorithm", "binary",
+    "decimal", "hexadecimal", "operator", "operand", "recursion",
+    "iteration", "parameter", "argument", "module", "package",
+    "library", "framework", "backend", "frontend", "database",
+    "query", "index", "table", "column", "row",
+    "server", "client", "request", "response", "protocol",
+    "network", "socket", "thread", "process", "memory",
+    "storage", "cache", "stack", "queue", "tree",
+    "graph", "node", "edge", "vertex", "search",
+    "sort", "merge", "split", "hash", "encrypt",
+    "decrypt", "security", "firewall", "authentication", "authorization",
+    "token", "session", "cookie", "browser", "html",
+    "css", "javascript", "react", "angular", "vue",
+    "flask", "django", "api", "json", "xml",
+    "loopback", "middleware", "debugger", "console", "terminal"
+]
